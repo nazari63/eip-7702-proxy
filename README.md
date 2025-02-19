@@ -124,3 +124,4 @@ forge verify-contract \
     <PROXY_TEMPLATE_ADDRESS> \
     src/EIP7702Proxy.sol:EIP7702Proxy
 ```
+This project is a demonstration of blockchain technology and smart contract integration.
